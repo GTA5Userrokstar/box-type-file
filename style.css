@@ -1,0 +1,137 @@
+.co {
+    display: inline-block;
+    width: 248px;
+    height: 35px;
+    background-color: rgb(162, 112, 216, 0.4);
+    position: relative;
+    top: 100px;
+    left: 100px;
+    border: ridge rgb(228, 228, 228);
+}
+
+.co2 {
+    display: inline-block;
+    width: 73px;
+    height: 35px;
+    background-color: rgb(211, 21, 110);
+    margin: 0px 0px 0px 0px;
+}
+
+.co3 {
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    width: 5px;
+    height: 35px;
+    position: relative;
+    right: 4px;
+}
+
+.co4 {
+    display: inline-block;
+    width: 5px;
+    height: 35px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    right: 2px;
+}
+
+.co5 {
+    display: inline-block;
+    width: 25px;
+    height: 35px;
+    background-color: rgb(211, 21, 110);
+    position: relative;
+    left: 128px;
+}
+
+.tes {
+    display: inline-block;
+    width: 248px;
+    height: 35px;
+    background-color: rgba(39, 184, 19, 0.8);
+    position: relative;
+    top: 100px;
+    left: 100px;
+    border: ridge rgb(223, 223, 223);
+}
+
+.tes2 {
+    display: inline-block;
+    width: 73px;
+    height: 35px;
+    background-color: rgb(47, 126, 18);
+    margin: 0px 0px 0px 0px;
+}
+
+.tes3 {
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    width: 5px;
+    height: 35px;
+    position: relative;
+    right: 4px;
+}
+
+.tes4 {
+    display: inline-block;
+    width: 5px;
+    height: 35px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    right: 2px;
+}
+
+.tes5 {
+    display: inline-block;
+    width: 25px;
+    height: 35px;
+    background-color: rgb(47, 126, 18);
+    position: relative;
+    left: 128px;
+}
+
+.main {
+    display: inline-block;
+    width: 248px;
+    height: 35px;
+    background-color: rgba(17, 31, 226, 0.788);
+    position: relative;
+    top: 100px;
+    left: 100px;
+    border: ridge rgb(184, 184, 184);
+}
+
+.main2 {
+    display: inline-block;
+    width: 73px;
+    height: 35px;
+    background-color: rgb(13, 21, 243);
+    margin: 0px 0px 0px 0px;
+}
+
+.main3 {
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    width: 5px;
+    height: 35px;
+    position: relative;
+    right: 4px;
+}
+
+.main4 {
+    display: inline-block;
+    width: 5px;
+    height: 35px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    right: 2px;
+}
+
+.main5 {
+    display: inline-block;
+    width: 25px;
+    height: 35px;
+    background-color: rgb(13, 21, 243);
+    position: relative;
+    left: 128px;
+}
